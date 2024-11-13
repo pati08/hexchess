@@ -1,0 +1,9 @@
+target/
+.direnv
+result
+result-bin
+pkg
+dist
+cargo-cache
+save.json
+saves.json
